@@ -208,4 +208,4 @@ The following use cases are not fully implemented in the current codebase:
 ---
 
 ## Author
-Gia Hung Nguyen
+Gia Hung Nguyen, Charlie Chen, Wang Yuhao, Balraj Singh Kular
